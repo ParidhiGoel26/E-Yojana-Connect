@@ -3,7 +3,10 @@ The e-Yojana Connect System is a web app to make it easier for the government to
 
 
 
-https://github.com/avnigoyal25/e-YojanaConnect-System/assets/91952706/863936f7-5872-4eac-8667-9b6e5794093b
+
+https://github.com/user-attachments/assets/3f871a0d-c2e8-4c8a-8c6b-6836611a5958
+
+
 
 
 # Tech Stack
